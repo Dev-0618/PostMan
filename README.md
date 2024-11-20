@@ -1,6 +1,6 @@
 # PostMan
 ### Advanced Email Automation CLI Tool
-
+![CertiMailer Logo](https://github.com/Dev-0618/PostMan/blob/main/postman.png)
 
 ## Description
 PostMan is a powerful and customizable command-line tool designed for efficient email automation. Whether you're managing bulk email campaigns, sending personalized messages, or notifying users with specific templates, PostMan simplifies the entire process. With a sleek CLI interface and fully customizable options, it ensures ease of use for all levels of users.
