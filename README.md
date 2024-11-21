@@ -33,7 +33,7 @@ PostMan is a powerful and customizable command-line tool designed for efficient 
 1. Start the program by running:
 
    ```bash
-   python3 intro.py
+   python3 postman.py
    ```
 
 2. Follow the interactive CLI prompts to:
@@ -46,7 +46,7 @@ PostMan is a powerful and customizable command-line tool designed for efficient 
 
 ## Example Workflow
 ```bash
-└──╼ $python3 intro.py
+└──╼ $python3 postman.py
 Welcome to PostMan!
 Creator: https://github.com/Dev-0618/
 Loading...
